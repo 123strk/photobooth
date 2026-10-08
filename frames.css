@@ -192,13 +192,13 @@
 
 /* Chat Biru: foto bubble biru, pesan abu di atas, biru di bawah */
 .strip[data-theme=chatb] .photos img{border:4px solid #2f8cf0;border-radius:20px 20px 4px 20px;background:#fff}
-.strip[data-theme=chatb] .photos::before{content:"haiii, manaa pap cakeppnya?? <3";align-self:flex-start;justify-self:start;background:#ece9f1;color:#2a3350;border-bottom-left-radius:4px}
-.strip[data-theme=chatb] .photos::after{content:"HEHEHEHE LUCUU GAKK??";align-self:flex-end;justify-self:end;background:#2f8cf0;color:#fff;border-bottom-right-radius:4px}
+.strip[data-theme=chatb] .photos::before{content:"haiii, mana pap cakepnyaa?? <3";align-self:flex-start;justify-self:start;background:#ece9f1;color:#2a3350;border-bottom-left-radius:4px}
+.strip[data-theme=chatb] .photos::after{content:"HEHEHEHE LUCU GAKKK???";align-self:flex-end;justify-self:end;background:#2f8cf0;color:#fff;border-bottom-right-radius:4px}
 
 /* Chat Abu: foto bubble abu, pesan biru di atas, abu di bawah */
 .strip[data-theme=chatg] .photos img{border:5px solid #e6e3ec;border-radius:20px 20px 20px 4px;background:#fff}
 .strip[data-theme=chatg] .photos::before{content:"gantian kamu yang pap yaaa";align-self:flex-end;justify-self:end;background:#2f8cf0;color:#fff;border-bottom-right-radius:4px}
-.strip[data-theme=chatg] .photos::after{content:"pap orangg cakepp";align-self:flex-start;justify-self:start;background:#ece9f1;color:#2a3350;border-bottom-left-radius:4px}
+.strip[data-theme=chatg] .photos::after{content:"pap orang cakepp";align-self:flex-start;justify-self:start;background:#ece9f1;color:#2a3350;border-bottom-left-radius:4px}
 
 /* F1 Rosso (merah-kuning) */
 .strip[data-theme=rosso]{--bg:#c4001d;--fg:#fff;--acc:#ffd400;border-top:6px solid #ffd400}
